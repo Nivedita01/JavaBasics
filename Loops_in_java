@@ -1,0 +1,40 @@
+//loops in java
+
+for loop
+for(int x=0;x<5;x++){
+  System.out.println(x);
+}
+output
+0
+1
+2
+3
+4
+
+while loop
+int x = 0;
+while(x<5){
+  System.out.println(x);
+  x = x+1;
+}
+output
+0
+1
+2
+3
+4
+
+
+do while loop
+
+do{
+  System.out.println(x)
+  x = x+1;
+}while(x<5)
+
+output
+0
+1
+2
+3
+4
